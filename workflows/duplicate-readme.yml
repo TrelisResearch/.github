@@ -11,15 +11,20 @@ jobs:
     steps:
     - name: Checkout code
       uses: actions/checkout@v2
-      
+
     - name: Copy README
-      run: cp profile/README.md README.md || true
+      run: cp profile/README.md README.md || echo "Failed to copy README.md"
+
+    - name: List files in root
+      run: ls -al
+
+    - name: Git Status
+      run: git status
 
     - name: Commit and push if it changed
       run: |
-        git diff
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
-        git add README.md
-        git commit -m "Update README for GitHub Pages" || exit 0
-        git push
+        git add README.md || echo "Failed to add README.md"
+        git commit -m "Update README for GitHub Pages" || echo "Failed to commit README.md"
+        git push origin HEAD || echo "Failed to push README.md"
