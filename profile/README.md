@@ -1,6 +1,6 @@
 # About Trelis Research
 
-Trelis Research provides tools and tutorials for training, using and deploying large language models (LLMs).
+Trelis Research provides tools and tutorials for training, using and deploying large language models.
 
 *last updated Sept 11th 2023*
 
