@@ -1,4 +1,4 @@
-  # About Trelis Research
+# About Trelis Research
 
 Trelis Research provides tools and tutorials for training, using and deploying large language models.
 
