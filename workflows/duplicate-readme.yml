@@ -1,0 +1,25 @@
+name: Duplicate README for GitHub Pages
+
+on:
+  push:
+    paths:
+      - 'profile/README.md'
+
+jobs:
+  copy-readme:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+      
+    - name: Copy README
+      run: cp profile/README.md README.md || true
+
+    - name: Commit and push if it changed
+      run: |
+        git diff
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add README.md
+        git commit -m "Update README for GitHub Pages" || exit 0
+        git push
