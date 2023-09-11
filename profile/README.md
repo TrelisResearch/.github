@@ -15,3 +15,12 @@ Trelis Research provides tools and tutorials for training, using and deploying l
 1. [Llama 2 Enterprise Installation Guide](https://www.youtube.com/watch?v=Ror2xOOA-VE) 
 1. [Function-calling Llama 2/Code-Llama Dataset and Models - 13B, 34B, 70B](https://huggingface.co/Trelis/Llama-2-70b-chat-hf-function-calling-v2)
 1. [Advanced Fine-tuning Training Scripts (QLoRA)](https://buy.stripe.com/fZe6pa5tP2Hxf3a7sL)
+
+## About Trelis Research
+Trelis LTD is run by @RonanKMcGovern
+
+Address: Blackrock, Dublin, Ireland
+
+Irish VAT Number: 3808855SH
+
+Email: hello @ Trelis [dot] com
