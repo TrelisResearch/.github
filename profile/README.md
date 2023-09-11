@@ -2,7 +2,7 @@
 
 Trelis Research provides tools and tutorials for training, using and deploying large language models.
 
-*last updated Sept 10th 2023*
+*last updated Sept 11th 2023*
 
 ## Most-viewed Video Tutorials [updated weekly]
 
