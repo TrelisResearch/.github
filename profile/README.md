@@ -14,4 +14,4 @@ Trelis Research provides tools and tutorials for training, using and deploying l
 
 1. [Llama 2 Enterprise Installation Guide (check video description of this link)](https://www.youtube.com/watch?v=Ror2xOOA-VE)1. 
 1. [Function-calling Llama 2/Code-Llama Dataset and Models - 13B, 34B, 70B](https://huggingface.co/Trelis/Llama-2-70b-chat-hf-function-calling-v2)
-1. [Advanced QLoRA Training Script / Fine-tuning Colab Notebook - see video #3 above](https://buy.stripe.com/5kA5l69K52Hxf3a006)
+1. [Advanced Fine-tuning Training Scripts (QLoRA)](https://buy.stripe.com/fZe6pa5tP2Hxf3a7sL)
