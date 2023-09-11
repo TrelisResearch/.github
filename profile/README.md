@@ -23,4 +23,4 @@ Address: Blackrock, Dublin, Ireland
 
 Irish VAT Number: 3808855SH
 
-Email: hello @ Trelis [dot] com
+Email: Hello @ Trelis [dot] com
