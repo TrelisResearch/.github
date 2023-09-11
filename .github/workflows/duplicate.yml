@@ -11,6 +11,8 @@ jobs:
     steps:
     - name: Checkout code
       uses: actions/checkout@v2
+      with:
+        token: ${{ secrets.GH_PAT }}  # Using the secret here
 
     - name: Copy README
       run: cp profile/README.md README.md || echo "Failed to copy README.md"
