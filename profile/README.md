@@ -1,20 +1,28 @@
 # About Trelis Research
-
 Trelis Research provides tools and tutorials for training, using and deploying large language models.
 
-*last updated Sept 17th 2023*
+*last updated Sept 24th 2023*
 
-## Most-viewed Video Tutorials [updated weekly]
+## Function-calling Models and Datasets
+- [Llama 2 models fine-tuned for function calling, 7B, 13B, 70B, CodeLlama 34B](https://huggingface.co/Trelis/Llama-2-7b-chat-hf-function-calling-v2)
+- [Dataset to fine-tune models for function calling](https://huggingface.co/datasets/Trelis/function_calling_extended)
 
-1. [Deploy Llama 2 for your Entire Organisation](https://www.youtube.com/watch?v=Ror2xOOA-VE)
-1. [Run Llama 2 with 32k Context Length](https://www.youtube.com/watch?v=ELax81LjFhU)
-1. [Run Code Llama on a Mac with an M1 Chip](https://www.youtube.com/watch?v=a1JlzUzHL-I)
+## LLM Server Setup
+- [Video: Run Llama 2 on AWS](https://youtu.be/Ror2xOOA-VE)
+- [Video: Deploy a Llama API in 5 clicks](https://youtu.be/dJ69gY0qRbg)
+- [Purchase access to the GitHub repo](https://buy.stripe.com/9AQ28UcWh4PF1ckeV9)
 
-## Top Selling Products [updated weekly]
+## Fine-tuning Scripts
+Fine-tune LLMs for style, content or structured responses
+- [View the three part YouTube series on embeddings, supervised and unsupervised fine-tuning](https://youtu.be/egnf8L-EUJU)
+- [Purchase access to the GitHub repo](https://buy.stripe.com/cN27tef4p2Hx2go4gD)
 
-1. [Llama 2 Enterprise Installation Guide](https://www.youtube.com/watch?v=Ror2xOOA-VE) 
-1. [Function-calling Llama 2/Code-Llama Dataset and Models - 13B, 34B, 70B](https://huggingface.co/Trelis/Llama-2-70b-chat-hf-function-calling-v2)
-1. [Advanced Fine-tuning Training Scripts (QLoRA)](https://buy.stripe.com/fZe6pa5tP2Hxf3a7sL)
+## Summarise-Me.com
+- [Summarise PDFs and websites up to 60,000 words](https://Summarise-Me.com)
+
+## Other Top Tutorials
+- [Run Code Llama on a Mac with an M1 Chip](https://www.youtube.com/watch?v=a1JlzUzHL-I)
+- [Run Llama 2 with 32k Context Length](https://www.youtube.com/watch?v=ELax81LjFhU)
 
 ## About Trelis Research
 Trelis LTD is run by @RonanKMcGovern
