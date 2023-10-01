@@ -1,7 +1,7 @@
 # About Trelis Research
 Trelis Research provides tools and tutorials for training, using and deploying large language models.
 
-*last updated Sept 24th 2023*
+*last updated Oct 1 2023*
 
 ## Function-calling Models and Datasets
 - [Llama 2 models fine-tuned for function calling, 7B, 13B, 70B, CodeLlama 34B](https://huggingface.co/Trelis/Llama-2-7b-chat-hf-function-calling-v2)
@@ -16,6 +16,11 @@ Trelis Research provides tools and tutorials for training, using and deploying l
 Fine-tune LLMs for style, content or structured responses
 - [View the three part YouTube series on embeddings, supervised and unsupervised fine-tuning](https://youtu.be/egnf8L-EUJU)
 - [Purchase access to the GitHub repo](https://buy.stripe.com/cN27tef4p2Hx2go4gD)
+
+## One-click LLM API/Server Templates
+- [Runpod affiliate link](https://tinyurl.com/yjxbdc9w)
+- [Llama 2 70B](https://tinyurl.com/2szykc6m)
+- [Llama 2 Long Context](https://tinyurl.com/yesu9xnh)
 
 ## Summarise-Me.com
 - [Summarise PDFs and websites up to 60,000 words](https://Summarise-Me.com)
