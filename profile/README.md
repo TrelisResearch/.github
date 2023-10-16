@@ -6,11 +6,13 @@ Trelis Research provides tools and tutorials for training, using and deploying l
 Trelis Research provides tools and tutorials for training, using and deploying large language models.
 
 ## ADVANCED Fine-tuning Scripts
+
+[Learn more here](https://trelis.com/advanced-fine-tuning-scripts/)
+
 1. Unsupervised + Supervised Fine-tuning Notebooks
 1. Q&A Dataset Preparation + Cleaning Scripts
 1. Scripts to create and use Embeddings
 1. Quantization Scripts
-[Learn more here](https://trelis.com/advanced-fine-tuning-scripts/)
 
 ## Function-calling Models and Datasets
 - [Llama 2 and Mistral models fine-tuned for function calling, 7B, 13B, 70B, CodeLlama 34B](https://huggingface.co/Trelis/Llama-2-7b-chat-hf-function-calling-v2)
