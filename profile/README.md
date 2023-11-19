@@ -1,9 +1,17 @@
-# About Trelis Research
-Trelis Research provides tools and tutorials for training, using and deploying large language models.
+*last updated Nov 19th 2023*
+## About Trelis Research
+Trelis Research provides:
+- Specialised fine-tuned models
+- Advanced fine-tuning scripts.
+- Inference guides.
 
-*last updated Oct 16th 2023*
-## About
-Trelis Research provides tools and tutorials for training, using and deploying large language models.
+## Function-calling Models and Datasets
+
+[Learn more here](https://trelis.com/function-calling/)
+
+- Fine-tuned models for function calling - from 1.3B to 70B in size, incl. Yi, Deepseek, Llama and more
+- [Dataset to fine-tune models for function calling](https://huggingface.co/datasets/Trelis/function_calling_extended)
+- Scripts to fine-tune models for function calling and structured responses
 
 ## ADVANCED Fine-tuning Scripts
 
@@ -13,15 +21,14 @@ Trelis Research provides tools and tutorials for training, using and deploying l
 1. Q&A Dataset Preparation + Cleaning Scripts
 1. Scripts to create and use Embeddings
 1. Quantization Scripts
-
-## Function-calling Models and Datasets
-- [Llama 2 and Mistral models fine-tuned for function calling, 7B, 13B, 70B, CodeLlama 34B](https://huggingface.co/Trelis/Llama-2-7b-chat-hf-function-calling-v2)
-- [Dataset to fine-tune models for function calling](https://huggingface.co/datasets/Trelis/function_calling_extended)
+1. Chat fine-tuning Scripts
 
 ## LLM Server Setup
+- Server setup and inference guide for open source models.
+- Inference for function calling.
 - [Video: Run Llama 2 on AWS](https://youtu.be/Ror2xOOA-VE)
 - [Video: Deploy a Llama API in 5 clicks](https://youtu.be/dJ69gY0qRbg)
-- [Purchase access to the GitHub repo](https://buy.stripe.com/9AQ28UcWh4PF1ckeV9)
+- [Learn more here](https://trelis.com/enterprise-server-api-and-inference-guide/)
 
 ## One-click LLM API/Server Templates
 - [Runpod affiliate link](https://tinyurl.com/yjxbdc9w)
