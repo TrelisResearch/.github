@@ -1,12 +1,21 @@
-*last updated Nov 13th 2024*
+*last updated January 4th 2024*
 ## About
 Trelis Research provides:
+- Advanced LLM evaluation scripts.
 - Advanced LLM fine-tuning scripts.
 - Advanced LLM inference guides.
 - Advanced vision fine-tuning scripts.
 - Advanced voice/transcription fine-tuning scripts.
 - One click LLM API templates
 - [Trelis Coding Assistant for Jupyter Lab](https://github.com/TrelisResearch/trelis-assistant)
+
+## ADVANCED Evals Scripts
+
+[Get access here](https://trelis.com/advanced-evals/)
+
+1. Preparing evaluation datasets.
+2. Setting up evaluation pipelines, including LLM as judge.
+3. Making use of user feedback to improve LLM pipeline performance.
 
 ## ADVANCED Fine-tuning Scripts
 
