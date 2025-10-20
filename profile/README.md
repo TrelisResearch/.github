@@ -1,19 +1,21 @@
-*last updated Mar 8th 2025*
+*last updated Oct 20th 2025*
 
 ## About
 Trelis LTD is a research company based in Dublin, founded by [Ronan McGovern](https://ronanmcgovern.com).
 
-🛠 Build & Deploy Faster: [Fine-tuning, Inference, Audio, Evals and Vision Tools](https://trelis.com/)
+🎥 Watch Trelis AI Tutorials on [Youtube](youtube.com/@TrelisResearch)
+
+🛠 Build & Deploy Faster: [Fine-tuning, Inference, Audio, Evals, Robotics and Vision Tools](https://trelis.com/)
+
+💻 Need compute? Get a sign-up bonus on Runpod: [affiliate link](https://runpod.io?ref=jmfkcdio)
 
 💡 Need Consulting: [Get Technical Assistance OR Market Insights](https://forms.gle/2VXzrBzpvm1BmG6e7)
 
-🤝 Are you a top developer? [Apply to join the Trelis Team](https://trelis.com/developer-collaborations/)
-
-💸 Starting a new project or venture? [Apply for a Trelis Grant](https://trelis.com/trelis-ai-grants/)
+💸 Starting a new project or venture? [Apply for a Trelis Grant or Investment](https://trelis.com/trelis-ai-grants/)
 
 ## One-click LLM API/Server Templates
 - Check out the full list [here](https://github.com/TrelisResearch/one-click-llms)
-- Includes Llama 70B, Mistral 7B, Mixtral 8x7B and many more
+- Includes GPT OSS and Qwen 3 Models.
 
 ## About Trelis Research
 Trelis LTD is run by @RonanKMcGovern
