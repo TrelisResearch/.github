@@ -1,15 +1,15 @@
-*last updated Oct 20th 2025*
+*last updated Jan 19th 2025*
 
 ## About
 Trelis LTD is a research company based in Dublin, founded by [Ronan McGovern](https://ronanmcgovern.com).
+
+🎻Custom Voice Model Training [Services](https://trelis.com/fine-tuning-services) (STT, TTS)
 
 🎥 Watch Trelis AI Tutorials on [Youtube](youtube.com/@TrelisResearch)
 
 🛠 Build & Deploy Faster: [Fine-tuning, Inference, Audio, Evals, Robotics and Vision Tools](https://trelis.com/)
 
 💻 Need compute? Get a sign-up bonus on Runpod: [affiliate link](https://runpod.io?ref=jmfkcdio)
-
-💡 Need Consulting: [Get Technical Assistance OR Market Insights](https://forms.gle/2VXzrBzpvm1BmG6e7)
 
 💸 Starting a new project or venture? [Apply for a Trelis Grant or Investment](https://trelis.com/trelis-ai-grants/)
 
